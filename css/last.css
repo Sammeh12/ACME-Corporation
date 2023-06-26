@@ -1,0 +1,20 @@
+table,
+table td {
+  border: 1px solid #000000;
+  background-color: lightcyan;
+}
+td {
+  height: 275px;
+  width: 650px;
+  text-align: center;
+}
+h2 {
+  position: absolute;
+  top: 90px;
+  left: 115px;
+}
+img {
+  position: absolute;
+  left: 300px;
+  top: 210px;
+}
